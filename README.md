@@ -168,3 +168,9 @@ Send any message to Claude Code. It will respond as if it were Claude, but under
 | Claude Code says not logged in | Make sure `ANTHROPIC_AUTH_TOKEN` is set in `settings.local.json` |
 | Connection refused | Confirm the router is running and HOST/PORT match in both configs |
 | Gemini returns auth errors | Double-check your API key in `config.json` |
+
+---
+
+## Video instruction (Russian)
+
+https://www.youtube.com/watch?v=2fyCCIQJ3gs
